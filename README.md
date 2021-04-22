@@ -1,6 +1,6 @@
 # message-client
 
-Server for a messaging app
+Client for a messaging app
 
 ## Project setup
 ```
